@@ -3,7 +3,7 @@
 ---
 
 ## ¿Pasos e inconvenientes para reconocer el CD?
-[...]
+Ver [[sintaxis/Complemento Directo\|Complemento Directo]]
 ## Tipos de oraciones impersonales.
 [...]
 ## ¿Cuándo los verbos copulativos introducen predicados verbales?
