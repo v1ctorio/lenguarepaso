@@ -3,39 +3,21 @@
 ---
 
 ## ¿Pasos e inconvenientes para reconocer el CD?
-Ver [[sintaxis/Complemento Directo\|Complemento Directo]]
+Vease [[sintaxis/Complemento Directo\|Complemento Directo]].
 ## Tipos de oraciones impersonales.
 [...]
 ## ¿Cuándo los verbos copulativos introducen predicados verbales?
-[...]
+Cuando estos cuentan con un significado en vez de solo unir la oración. Por ejemplo, cuando se **pueden reemplazar por el verbo celebrar**
+> *El partido **será** mañana* -> *El partido **se celebrará** mañana*
 ## ¿Qué es un C.Reg.?
-[...]
+Vease [[sintaxis/Complemento Régimen\|Complemento Régimen]].
 ## Errores frecuentes al analizar un C. Pred.
 [...]
 ## ¿Pasos e inconvenientes para localizar el atributo?
-[...]
+Vease [[sintaxis/Atributo\|Atributo]].
 ## ¿Puede el C.D. ir precedido de alguna preposición? si es cierto, ¿En qué casos?
-[...]
+Sí. Por ejemplo cuando se refiere a una persona, animal u objeto personalizado este puede ir precedido de la preposición "a".
 ## Valores del "se"
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-# Valores del "se"
-## Pronombre 
-- **Reflexivo** | el sujeto realiza la acción que padece | *Luis **se** afeita todos los días*
-- **Reciproco** 
-- **"se" por "le"**
-- **Datos de interés**
-- CI
-## No es un pronombre
-- **Marca de impersonalidad**  | no es pasiva | sin sujeto | verbo en singular ~~plural~~ | **Se** come~~(n)~~ bien en este restaurante 
-- **Pasiva refleja** | **Se** *hacen*  [arreglos de ropa] (SN/Suj)
-- **Parte de un verbo pronominal** | El **se** atreve | atrever**se** | ovlidar(**se**) C. Regimen verbal 
-
-
-</div></div>
-
+Vease [[Valores del se\|Valores del se]].
 ## ¿Qué es un verbo copulativo?
+Un verbo que carece de significado por si mismo y solo es usado para unir la oración. Los verbos incluidos en esta categoría son: *"ser", "estar" y "parecer"*.
