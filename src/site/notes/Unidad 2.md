@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unidad-2/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/unidad-2/"}
 ---
 
 # Tipos de textos
